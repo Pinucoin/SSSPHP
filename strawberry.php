@@ -13,6 +13,7 @@ class Strawberry extends Fruit {
 	public function __construct($name, $color, $weight){
 		parent::__construct($name, $color);
 		$this->weight = weight;
+	
 	}
 	public function message(){
 		echo $this->weight;
