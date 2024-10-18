@@ -1,0 +1,9 @@
+#### ($color){
+### "red":
+	echo "Hello";
+	break;
+
+### "green":
+	echo "Welcome";
+	break;
+x
